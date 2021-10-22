@@ -8,7 +8,7 @@ int main(){
 	string nama;
 	char x ;
 	
-	cout<<"\t\t\tPROGRAM MENGHITUNG NILAI dan IPK MAHASISWA\n\n\n";
+	cout<<"\t\t\tPROGRAM MENGHITUNG TOTAL PENJUALAN\n\n\n";
   
   // Perulangan awal
 	awal:
